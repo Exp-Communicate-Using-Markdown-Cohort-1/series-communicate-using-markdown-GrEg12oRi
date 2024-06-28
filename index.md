@@ -6,4 +6,5 @@
 
 ![Image of dogs](https://img.freepik.com/photos-gratuite/recherche-nourriture-bouledogue-francais-noir-mignon-posant-isole-fond-blanc-studio_155003-46328.jpg)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
