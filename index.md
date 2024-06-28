@@ -8,3 +8,7 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [ ] check my Ps5
+- [x] love my fiancee
+- [ ] walking my dog
